@@ -2,6 +2,8 @@
 
 Vivid Dividend Portfolio Spreadsheet & Automated Crypto & Stock Investment Ledger Engine
 
+<p align="center"><img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></p>
+
 > ### 🔑 FAST-TRACK SECURE DOWNLOAD
 > Isolate your financial tracking from buggy corporate web trackers instantly. Access your permanent, offline dark-mode Excel workbook below:
 > 
